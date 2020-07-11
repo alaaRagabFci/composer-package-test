@@ -7,7 +7,7 @@
         "name": "alaaragab34",
         "email": "alaaragab34@gmail.com"
     }],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {
         "php": "7.3.*"
     },
