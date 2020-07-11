@@ -1,0 +1,19 @@
+{
+    "name": "alaa-wega/composer-package-test",
+    "description": "Generate random text",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "alaaragab34",
+        "email": "alaaragab34@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "7.3.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Generator\\": "./"
+        }
+    }
+}
